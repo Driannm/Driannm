@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Driannx
+- 👋 Hi, I’m @Driann's
 - 👀 I’m interested in code learning
 - 🌱 I’m currently learning Java, C++
 - 💞️ I’m looking to collaborate on ..
