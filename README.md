@@ -2,7 +2,7 @@
 - 👀 I’m interested in code learning
 - 🌱 I’m currently learning Java, C++
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me @yudaandrian164@gmail.com
+- 📫 How to reach me @yuda.studying@gmail.com
 
 <!---
 Driannx/Driannx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
