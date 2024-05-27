@@ -3,6 +3,6 @@
 
 <div align="center">  
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Driannn&theme=dark&hide_border=true&exclude_days=Sun&card_width=900)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Driannn&theme=transparent&hide_border=true&exclude_days=Sun&card_width=900)](https://git.io/streak-stats)
 
 </div>
