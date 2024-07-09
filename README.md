@@ -2,6 +2,8 @@
 
 <p>I am a dedicated and enthusiastic 4th-semester Computer Engineering student with a strong interest in Cloud Computing. Throughout my studies, I have built a solid foundation in computer science and technology, and developed relevant technical skills through various academic projects and practical experiences.</p>
 
+___
+
 - 🔭 I’m currently study on **Politeknik Harapan Bersama**
 
 - 🌱 I’m currently learning **Cloud Computing, Kubernetes**
