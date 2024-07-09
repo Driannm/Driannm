@@ -13,3 +13,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=driann&" alt="driann" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Driannm&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
