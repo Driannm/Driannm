@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuda Andrian</h1>
 
-<p align="center">I am a dedicated and enthusiastic 4th-semester Computer Engineering student with a strong interest in Cloud Computing. Throughout my studies, I have built a solid foundation in computer science and technology, and developed relevant technical skills through various academic projects and practical experiences.</p>
+<p>I am a dedicated and enthusiastic 4th-semester Computer Engineering student with a strong interest in Cloud Computing. Throughout my studies, I have built a solid foundation in computer science and technology, and developed relevant technical skills through various academic projects and practical experiences.</p>
 
 - 🔭 I’m currently study on **Politeknik Harapan Bersama**
 
