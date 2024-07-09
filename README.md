@@ -12,4 +12,4 @@
 <a href="https://www.leetcode.com/driannm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="driannm" height="30" width="40" /></a>
 </p>
 
-<p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=Driannm&" alt="Driannm" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Driannm&" alt="Driannm" /></p>
