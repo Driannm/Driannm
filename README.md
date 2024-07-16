@@ -20,7 +20,7 @@ ___
 
 ___
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="middle">Languages and Tools</h3>
 
 <h3 align="left">Backend :</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
