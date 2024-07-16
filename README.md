@@ -2,6 +2,12 @@
 
 <p>I am a dedicated and enthusiastic 4th-semester Computer Engineering student with a strong interest in Cloud Computing. Throughout my studies, I have built a solid foundation in computer science and technology, and developed relevant technical skills through various academic projects and practical experiences.</p>
 
+<p>I am a dedicated and enthusiastic 4th-semester Computer Engineering student with a strong interest in Cloud Computing. Throughout my studies, I have built a solid foundation in computer science and technology, and developed relevant technical skills through various academic projects and practical experiences.
+
+I am committed to deepening my knowledge and expertise in Cloud Computing, with the aim of applying it effectively in the professional world. I have a particular interest in cloud infrastructure, cloud services, and innovative cloud-based solutions.
+
+I am always eager to learn new things and face challenges, and I am seeking opportunities to advance my career in Cloud Computing, work with dynamic professional teams, and contribute to impactful projects.</p>
+
 ___
 
 - 🔭 I’m currently study on **Politeknik Harapan Bersama**
