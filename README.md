@@ -24,20 +24,4 @@ ___
 
 ___
 
-<h2 align="middle">Languages and Tools</h2>
-
-<h3 align="left">Backend :</h3>
-<p align="middle"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <p align="middle"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-
-<h3 align="left">Front End :</h3>
-<p align="middle"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-
-<h3 align="left">Database :</h3>
-<p align="middle"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-
-
-
-
-___
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Driannm&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=900" alt="Driannm" /></p>
