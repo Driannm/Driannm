@@ -20,7 +20,7 @@ ___
 
 ___
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Languages and Tools:</h3>
 
 ___
 
