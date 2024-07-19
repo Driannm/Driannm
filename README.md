@@ -10,7 +10,7 @@ ___
 
 - 🔭 I’m currently study on **Politeknik Harapan Bersama**
 
-- 🌱 I’m currently learning **Cloud Computing, Kubernetes**
+- 🌱 I’m currently learning **Cloud Computing, Kubernetes, dan React.js**
 
 - 📫 How to reach me **yuda.studying@gmail.com**
 
