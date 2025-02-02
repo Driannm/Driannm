@@ -7,8 +7,17 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Driannm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Driannm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Driannm&theme=dracula&hide_border=true&border_radius=5&locale=en&mode=daily" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Driannm&theme=vue&hide_border=true&border_radius=5&locale=en&mode=daily" />
+    <img src="https://streak-stats.demolab.com?user=Driannm&theme=vue&hide_border=true&border_radius=5&locale=en&mode=daily" height="150" alt="streak graph" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Driannm&theme=dracula&hide_border=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Driannm&theme=vue&hide_border=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Driannm&theme=vue&hide_border=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6" height="150" alt="languages graph" />
+  </picture>
 </div>
 
 ###
@@ -49,7 +58,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Driannm/Driannm/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Driannm/Driannm/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Driannm/Driannm/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Driannm/Driannm/output/github-snake.svg" />
+</picture>
 
 ###
 
