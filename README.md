@@ -14,7 +14,7 @@
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Driannm&theme=dracula&hide_border=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Driannm&theme=dracula&hide_border=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Driannm&theme=vue&hide_border=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Driannm&theme=vue&hide_border=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6" height="150" alt="languages graph" />
   </picture>
