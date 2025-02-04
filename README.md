@@ -10,7 +10,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Driannm&theme=dracula&hide_border=true&border_radius=5&locale=en&mode=daily" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Driannm&theme=vue&hide_border=true&border_radius=5&locale=en&mode=daily" />
-    <img src="https://streak-stats.demolab.com?user=Driannm&theme=vue&hide_border=true&border_radius=5&locale=en&mode=daily" height="150" alt="streak graph" />
   </picture>
 
   <picture>
