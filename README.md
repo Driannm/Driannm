@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Yuda Andrian and I'm a Student, at Politeknik Harapan Bersama</h2>
+<h2 align="center">Hi 👋! My name is Yuda Andrian and I'm a Student, at Harkat State University</h2>
 
 ###
 
